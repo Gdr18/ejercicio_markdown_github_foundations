@@ -8,3 +8,7 @@ age = 37
 def greeting():
   return f"Hello {name}, your age is {age}"
 ```
+
+- [x] Empezar curso GitHub Foundations
+- [ ] Terminar curso de GitHub Foundations
+- [ ] Terminar curso de Python
